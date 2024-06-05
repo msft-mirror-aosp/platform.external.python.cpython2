@@ -311,7 +311,7 @@ cc_defaults {
             ],
         },
         host: {
-            static_libs: ["libsqlite"],
+            static_libs: ["libsqlite_static_noicu"],
         },
         // Use shared libsqlite for device side, otherwise
         // the executable size will be really huge.
