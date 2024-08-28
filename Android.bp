@@ -77,7 +77,6 @@ cc_defaults {
         "-Wno-null-pointer-arithmetic",
         "-Wno-register",
         "-Wno-shift-count-overflow",
-        "-Wno-single-bit-bitfield-constant-conversion",
         "-Wno-sign-compare",
         "-Wno-strict-prototypes",
         "-Wno-tautological-compare",
